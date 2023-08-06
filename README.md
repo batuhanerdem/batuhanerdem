@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Batuhan Erdem.</h1>
-<h3 align="center">A Computer Engineer student in Turkey. Working on Android.</h3>
+<h3 align="center">A Computer Engineering student in Turkey. Learning Meteor js with blaze template engine! .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhanerdem&label=Profile%20views&color=0e75b6&style=flat" alt="batuhanerdem" /> </p>
 
