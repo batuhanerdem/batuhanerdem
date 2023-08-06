@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhanerdem&label=Profile%20views&color=0e75b6&style=flat" alt="batuhanerdem" /> </p>
 
-- 🌱 I’m currently learning **React-native, clean code, clean architecture and will start a design patterns course**
+- 🌱 I’m currently working on **Meteor js and blaze.** Taking course about node js, advanced js, clean code, clean architecture and will start a design patterns course soon!
 
 - 📫 How to reach me **batuhanerdem173@gmail.com**
 
