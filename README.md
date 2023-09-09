@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhanerdem&label=Profile%20views&color=0e75b6&style=flat" alt="batuhanerdem" /> </p>
 
 # 💫 Hi, I am a Computer Engineering Student from Turkey.
-🔭 I’m currently working on **Meteor js and Blaze**.<br>🌱 I’m currently learning **advanced javascript, meteor js**.<br>⚡ Taking course about **node js, clean code, design patterns** from udemy.
+🔭 I’m currently working on **Android with kotlin.**.<br>🌱 I’m currently learning **advanced kotlin**.<br>⚡ Taking course about **clean code, design patterns** from udemy. I also made a web project with Meteor js which is a fullstack framework.
 
 
 ## 🌐 Socials:
